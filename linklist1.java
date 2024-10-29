@@ -24,6 +24,7 @@ public class linklist1{
        System.out.println(y); // 150 x me y node ke data type ka adress store ho jayega in x
         System.out.println(x.data);   // 150
          System.out.println(x.next.data); // will print the y value 
+         System.out.println(x.next.next.next.data);
          System.out.println(x.next.next.next.next.data); // will pirnt the value of b
          
          
