@@ -21,7 +21,7 @@ public class linklist4{
     public static void main(String[] args) {
         node4 y = new node4(150);
         node4 z = new node4(80);
-        node4 a = new node4(10);
+        node4 a = new node4(60);
         node4 b = new node4(90);
         node4 h = new node4(20);
         
