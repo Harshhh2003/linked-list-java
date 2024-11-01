@@ -6,7 +6,7 @@ public class linklist5{
         display(head.next);
        
 
-    } //  revrse list print method
+    } //  revrse list print method 
     public static void displayr(node5 head){
         if(head == null) return;
         System.out.println(head.data );
