@@ -35,6 +35,7 @@ public class linklist7{
  l1.insertatend(50);   
  l1.insertatend(100);
  display(l1.head);
+//  ans
      
         
     }
