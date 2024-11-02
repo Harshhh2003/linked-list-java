@@ -39,6 +39,7 @@ public class linklist8 {
         l1.insertatstarting(23);
         l1.insertatstarting(78);
         l1.insertatstarting(533);
+        l1.insertatstarting(35);
         display(l1.head);
     }
 }
