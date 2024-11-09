@@ -32,6 +32,7 @@ public class linklist8 {
             }
         }
     }
+    
 
     public static void main(String[] args) {
         Linklist l1 = new Linklist();
