@@ -56,7 +56,7 @@ class LinkedList {
         return mergedList;
     }
 
-    /
+    
     public void display() {
         Node current = head;
         while (current != null) {
