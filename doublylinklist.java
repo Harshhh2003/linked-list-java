@@ -27,8 +27,9 @@ temp = temp.next;
         d.prev = c;
         d.next = null;
         display(a);
+        // output  10 101 20 100
 
 
 
     }
-}
+} 
