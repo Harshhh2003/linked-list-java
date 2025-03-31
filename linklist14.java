@@ -1,6 +1,6 @@
 public class linklist14 {
     node13 head;
-    int size = 0; /
+    int size = 0; 
 
     public static class node13 {
         int data;
